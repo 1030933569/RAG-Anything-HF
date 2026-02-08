@@ -1,0 +1,7 @@
+gradio>=5.0.0
+python-dotenv>=1.0.0
+openai>=1.0.0
+lightrag-hku
+docling
+huggingface_hub
+tqdm
