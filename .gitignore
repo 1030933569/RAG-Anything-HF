@@ -79,3 +79,5 @@ memory-bank/
 .cursor/
 CLAUDE.md
 .ace-tool/
+
+assets/*.png
