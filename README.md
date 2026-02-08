@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <div style="margin: 20px 0;">
@@ -1281,3 +1282,16 @@ If you find RAG-Anything useful in your research, please cite our paper:
     <div style="margin-top: 10px; color: #00d9ff; font-size: 16px;">Building the Future of Multimodal AI</div>
   </div>
 </div>
+||||||| empty tree
+=======
+---
+title: RAG HF
+emoji: 📈
+colorFrom: yellow
+colorTo: pink
+sdk: docker
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> f5d1b58a5f1b6dd6eb9fe700a1c4d3441c0158ee
