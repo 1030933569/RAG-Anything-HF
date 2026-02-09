@@ -1,3 +1,13 @@
+---
+title: RAG-Anything + Docling
+emoji: 🐳
+colorFrom: purple
+colorTo: gray
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 <div align="center">
 
 <div style="margin: 20px 0;">
